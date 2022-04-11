@@ -66,7 +66,7 @@ Here are the competition results for the top five teams.
 We encourage more participators to hit the charts!
 
 ## SD Track
-The second track focuses on speaker diarization in dialog scenarios, with rules and data preparation as the same as the ASR track.
+The second track focuses on speaker diarization in dialog scenarios, with rules and data preparation the same as the ASR track.
 
 ### Baseline
 | **Model**| **Train Data** |**Test DER (collar 0.25)**    |
