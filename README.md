@@ -77,7 +77,7 @@ The second track focuses on speaker diarization in dialog scenarios, with rules 
 ### Leaderboard
 The test set published in Magic Data ASR-SD Challenge is different from that of MagicData-RAMC.
 Therefore, the leaderboard is temporarily empty.
-More participants are welcome!
+We look forward to your participation！
 
 ## Citation
 ```bibtext
