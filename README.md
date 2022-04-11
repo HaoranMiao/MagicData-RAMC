@@ -8,7 +8,7 @@ The open-source dataset can be downloaded [here](https://www.magicdatatech.com/d
 MagicData-RAMC comprises dialog speech data, corresponding transcriptions, voice activity timestamps, and speakers’ demographic information. It contains 351 multi-turn Mandarin Chinese dialogs, which amount to about 180 hours. The speech data is carefully annotated and manually proofed.
 
 ### Dataset Partition
-The following is a summary of the partition in MagicData-RAMC, including gender and demographic information.
+The following is a summary of the partition in MagicData-RAMC. The gender and demographic distributions are roughly balanced.
 
 | **Information**| **Training**     | **Development** |**Test**    |
 |:---------------|:------------------:|:------------------:|:------------------:|
