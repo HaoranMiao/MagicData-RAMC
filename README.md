@@ -4,7 +4,7 @@ This is the offical repository of the Rich Annotated Mandarin Conversational (RA
 ## Download
 The open-source dataset can be downloaded [here](https://www.magicdatatech.com/datasets/mdt2021s003-1647827542).
 
-## Dataset
+## Data Description
 MagicData-RAMC comprises dialog speech data, corresponding transcriptions, voice activity timestamps, and speakers’ demographic information. It contains 351 multi-turn Mandarin Chinese dialogs, which amount to about 180 hours. The speech data is carefully annotated and manually proofed.
 
 ### Dataset Partition
