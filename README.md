@@ -63,6 +63,7 @@ Here are the competition results for the top six teams.
 | LinkSure    | 17.3 |
 | BUPT AI Lab | 17.8 |
 | Vocust      | 18.3 |
+
 We encourage more participants to hit the charts!
 
 ## SD Track
