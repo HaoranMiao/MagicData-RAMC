@@ -64,7 +64,7 @@ Here are the competition results for the top six teams.
 | BUPT AI Lab | 17.8 |
 | Vocust      | 18.3 |
 
-We encourage more participants to hit the charts!
+We encourage more participants to hit the leaderboard!
 
 ## SD Track
 The second track focuses on speaker diarization in dialog scenarios, with rules and data preparation the same as the ASR track.
@@ -77,7 +77,7 @@ The second track focuses on speaker diarization in dialog scenarios, with rules 
 ### Leaderboard
 The test set published in Magic Data ASR-SD Challenge is different from that of MagicData-RAMC.
 Therefore, the leaderboard is temporarily empty.
-We encourage more participants to hit the charts!
+More participants are welcome!
 
 ## Citation
 ```bibtext
