@@ -75,8 +75,8 @@ The second track focuses on speaker diarization in dialog scenarios, with rules 
 | [VBx](https://arxiv.org/abs/2203.16844) | [MagicData-RAMC](https://www.magicdatatech.com/datasets/mdt2021s003-1647827542) & [MagicData-READ](http://www.openslr.org/68) & [VoxCeleb](http://www.openslr.org/49) & [CN-Celeb](http://www.openslr.org/82) | 7.96 |
 
 ### Leaderboard
-The test set published in Magic Data ASR-SD Challenge is different from that of MagicData-RAMC.
-Therefore, the leaderboard is temporarily empty.
+The leaderboard is temporarily empty since the test set published in Magic Data ASR-SD Challenge is different from that of MagicData-RAMC.
+
 We look forward to your participation！
 
 ## Citation
