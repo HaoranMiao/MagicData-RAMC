@@ -53,7 +53,7 @@ The first track focuses on dialog speech recognition accuracy, with detailed rul
 | [LAS-Conformer](https://arxiv.org/abs/2203.16844) | [MagicData-RAMC](https://www.magicdatatech.com/datasets/mdt2021s003-1647827542) & [MagicData-READ](http://www.openslr.org/68) | 19.1 |
 
 ### Leaderboard
-Here are the competition results for the top five teams.
+Here are the competition results for the top six teams.
 
 | **Contributor**|**Test CER**    |
 |:---------------|:------------------:|
@@ -62,7 +62,7 @@ Here are the competition results for the top five teams.
 | Royalflush  | 14.5 |
 | LinkSure    | 17.3 |
 | BUPT AI Lab | 17.8 |
-
+| Vocust      | 18.3 |
 We encourage more participants to hit the charts!
 
 ## SD Track
