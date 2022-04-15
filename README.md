@@ -7,6 +7,34 @@ The open-source dataset can be downloaded [here](https://www.magicdatatech.com/d
 ## Data Description
 MagicData-RAMC comprises dialog speech data, corresponding transcriptions, voice activity timestamps, and speakers’ demographic information. It contains 351 multi-turn Mandarin Chinese dialogs, which amount to about 180 hours. The speech data is carefully annotated and manually proofed.
 
+### Speaker Information
+MagicData-RAMC recorded the speaker information in SPKINFO.txt.
+
+The format is like 
+```
+CHANNEL	SPEAKER_ID	GENDER	AGE	                        REGION,CITY	  DEVICE
+C0	G00000016	M	Middle-aged and young people	Sichuan	          Mobile phone
+...
+```
+
+### Dialog Information
+MagicData-RAMC recorded the dialog information in UTTERANCEINFO.txt
+
+The format is like
+```
+CHANNEL	UTTRANS_ID	                SPEAKER_ID-1	SPEAKER_ID-2	TOPIC	    VALID(min)	TOTAL(min)  Environment
+C0	CTS-CN-F2F-2019-11-15-188.wav	G00000016	G00000015	职业发展	    27.63	31.1	    室内
+...
+```
+
+### Annotations
+The format of annotations for each audio is like
+```
+[1.319,6.691]	G00000140	女,普通话	爱数智慧语音采集二零一九年十一月六日
+[8.106,12.713]	G00000140	女,普通话	最近最近那个新海诚的啊，那个
+...
+```
+
 ### Dataset Partition
 The following is a summary of the partition in MagicData-RAMC. The gender and demographic distributions are roughly balanced.
 
