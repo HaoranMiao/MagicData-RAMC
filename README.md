@@ -48,6 +48,10 @@ The following is a summary of the partition in MagicData-RAMC. The gender and de
 |#Northern China | 271 | 20 | 52 |
 |#Southern China | 285 | 18 | 34 |
 
+#### Distribution Chart in MagicData-RAMC
+
+<div align="left"> <img src="https://github.com/HaoranMiao/MagicData-RAMC/blob/main/pics/f-m.png" width=20% /> <img src="https://github.com/HaoranMiao/MagicData-RAMC/blob/main/pics/s-n.png" width=20% /> <img src="https://github.com/HaoranMiao/MagicData-RAMC/blob/main/pics/province.png" width=20% /> </div>
+
 ### Categories
 We classify the dialogs in MagicData-RAMC into 15 diversified domains. The diversity of topics and the consistency in one dialog are beneficial to the
 development of open-domain spoken dialog systems.
@@ -69,6 +73,9 @@ development of open-domain spoken dialog systems.
 |Professional Development |35 |18.26|
 |Art |84 |43.87|
 |Ordinary Life |41 |21.19|
+
+#### Distribution Chart in MagicData-RAMC
+<div align="left"> <img src="https://github.com/HaoranMiao/MagicData-RAMC/blob/main/pics/topic.png" width=30% /> </div>
 
 ## ASR Track
 We held the [Magic Data ASR-SD Challenge](https://github.com/MagicHub-io/Magic-Data-ASR-SD-Challenge) in August 2021.
